@@ -1,0 +1,1 @@
+moshe is testing the pull command, lets see if am reading this message from CLI local repository.
