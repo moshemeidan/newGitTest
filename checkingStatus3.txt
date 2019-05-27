@@ -1,1 +1,3 @@
 this is another change, just to check out the command "git status"
+checking if "git status" is identifying this change.
+
